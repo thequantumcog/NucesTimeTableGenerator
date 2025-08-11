@@ -26,7 +26,8 @@ Day = 0
 Section = ""
 Periods = []
 for row, val in enumerate(sh.values):
-    if val[1] == None:
+    # if val[1] == None:
+    if "／／" in str(val[1]):
         Day += 1
     else:
         Venue = val[1]
