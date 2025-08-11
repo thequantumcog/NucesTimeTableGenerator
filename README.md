@@ -1,17 +1,11 @@
-![Contributors](https://img.shields.io/github/contributors/Hamza5743/TimeTableGenerator.svg?style=flat-square) ![stars](https://img.shields.io/github/stars/Hamza5743/TimeTableGenerator.svg?style=flat-square) ![Contributors](https://img.shields.io/github/watchers/Hamza5743/TimeTableGenerator.svg?style=flat-square) 
 
 # Time Table Generator For FAST - NUCES
 
 Use it to generate clash less timetables according to the times you want a break and the courses+sections you want to choose It will give you all the possible time tables according to your schedule.
- Click on the [link](https://hamza5743.github.io/TimeTableGenerator/Calculator.html) to give it a go.
+ Click on the [link](https://thequantumcog.github.io/NucesTimeTableGenerator/Calculator.html) to give it a go.
  
-Or visit the [Repo.](https://github.com/Hamza5743/TimeTableGenerator)
+Or visit the [Repo.](https://github.com/thequantumcog/NucesTimeTableGenerator)
 
-## Features
-- Clashless Time Table.
-- Interactive design for adding breaks.
-- Shows Multiple possibilities.
-- Ability to select multiple sections for each course.
 
 ## How To Use
 
