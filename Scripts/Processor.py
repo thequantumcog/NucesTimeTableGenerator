@@ -36,10 +36,10 @@ for row, val in enumerate(sh.values):
             if period != None:
                 Section = period.split("(")[-1].split(")")[0]
                 Course = period.split("(")[0].strip()
-                stime = (col - 2) * 10
+                stime = (col - 1) * 10
                 if (row + 5, col + 1) in CourseLength:
                     etime = (
-                        ((col - 2) + CourseLength[(row + 5, col + 1)]) * 10) + 10
+                        ((col - 1) + CourseLength[(row + 5, col + 1)]) * 10) + 10
                 else:
                     etime = 0
                     continue
